@@ -54,3 +54,20 @@ List of mods that are edited to my flavour.
 - Y-axis drilling helpper. Holes for MGN12 linear rail. It needs changes and I have to create mod that supports Y-axis belt better and make it more straight.
 
 These are just top of my head what I remember, but I'll create better list of parts and mods.
+
+## Mods in action
+
+![X-axis](https://github.com/SaKaarle/Ender3V2-modifications/blob/main/pictures/photo1686598149(4).jpeg?raw=true)
+Carriage looks familiar as Hero Me Gen. No surprises there.
+
+![X-axis](https://github.com/SaKaarle/Ender3V2-modifications/blob/main/pictures/photo1686598149(3).jpeg?raw=true)
+Cable management is garbage and atleasted tried something. It's the modded version with Linear Rail support. 
+
+![Z-axis](https://github.com/SaKaarle/Ender3V2-modifications/blob/main/pictures/photo1686598149(1).jpeg?raw=true)
+Z-axis Dual Axis support. Bad picture, but it works for dual motor setup. Had to mod it so it wouldn't hit the coupler on the motor.
+
+
+![Y-axis](https://github.com/SaKaarle/Ender3V2-modifications/blob/main/pictures/photo1686598149(2).jpeg?raw=true)
+Y-axis is modded. Used open-sourced Y bed part from GitHub and cut it. Added holes for MGN12 and drilled the metal part. Attached to Y axis and it's WORK IN PROGRESS. Why?
+- Support for belt needs to be created. Straighten the belt by creating cut outs from the "drill helpper" part. It has places for belts from original, so just cutting it from original POM Wheel holes and add height about 2mm and it supports the belt.
+- "Rinkula.stl" part is for Y axis stop sensor. Simple solution but could be better.
