@@ -6,4 +6,4 @@ This repo is made for me to publicly upload my mods and methods I used for creat
 - Blender usage is casual and can't say I am professional or experienced
 - I'm "stupid" that I didn't taught myself CAD or other softwares, because it'd helped me
 - Blender is "good" to mod premade STL files
-- [https://www.cadsketcher.com/](test) CAD Sketcher is lifesaving mod
+- (test)[https://www.cadsketcher.com/] CAD Sketcher is lifesaving mod
