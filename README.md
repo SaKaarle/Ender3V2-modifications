@@ -20,3 +20,7 @@ I used a lot of tools from in-software tools and "un-official" ones. Listed:
 - LoopTools
 - tinyCAD mesh tools
 - Bool Tool (best)
+
+# Example of ugly(really ugly) interface of mod(s)
+If you are professional CAD user. It's not safe for work or life for you.
+![Screenshot](https://github.com/SaKaarle/Ender3V2-modifications/blob/main/pictures/GitHub%20ugly%20mod.PNG?raw=true)
