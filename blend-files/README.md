@@ -1,6 +1,6 @@
 # Backup of files
 ## Main Duct mod
-(Main duct mod is huge. 100mb and it's like test enviroment)[https://github.com/SaKaarle/Ender3V2-modifications/blob/main/blend-files/ModdedVersionDuct.7z]
+[Main duct mod is huge. 100mb and it's like test enviroment](https://github.com/SaKaarle/Ender3V2-modifications/blob/main/blend-files/ModdedVersionDuct.7z)
 It has my old mods, tests etc. Didn't cleaned it.
 
 It also contains the X-axis carriage mod for linear rails. It's remixed to have:
