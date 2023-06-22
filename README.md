@@ -15,6 +15,7 @@ I used a lot of tools from in-software tools and "un-official" ones. Listed:
 - [CAD Sketcher](https://www.cadsketcher.com/) is lifesaving mod
 - [QuickSnap](https://github.com/JulienHeijmans/quicksnap) from GitHub is great tool to help connecting pieces together
 - [BlendShell](https://github.com/oormicreations/BlendShell) tool is in testing. Trying to make Ducts or something with this tool
+- [CAD Transform for blender](https://blender-archipack.gumroad.com/l/nQVcS) is new tool yet to be tested.
 - Precision Drawing Tools. Measuring Vector - Vector distances.
 - 3D-Print Toolbox. Exporting STL easy way.
 - LoopTools
