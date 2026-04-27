@@ -31,11 +31,13 @@ Y-axis upgrade path is simple: Dual MGN rail. New bed heater system. New bed hea
   
 **Z-axis:** Dual leadscrew / BLV Z-axis. I could just use KevinAkaSam's Z-axis mod. Only needs printing the necessary parts.
 Z-axis not necessarily needs upgrade, except the belted mod. 
-
+  
 **DUCT:** Yeah nothing really. FrankEnstein V2
-
+  
 **Extruder:** Orbiter V2.0 -> V2.5 upgrade done. Better quality? "yes". Worth it? I guess?
-
+  
 **Enclosure:** Needs filtering system
-
+  
 **Motherboard and Electronics:** GPIO pins, fans and new motherboard holder location and design. Led control from RPi 5 or from RPi Pico.
+  
+**Filament runout sensor:** Not installed
