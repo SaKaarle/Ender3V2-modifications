@@ -41,3 +41,9 @@ Z-axis not necessarily needs upgrade, except the belted mod.
 **Motherboard and Electronics:** GPIO pins, fans and new motherboard holder location and design. Led control from RPi 5 or from RPi Pico.
   
 **Filament runout sensor:** Not installed
+
+## Filament spool / roll weights
+  
+- CR-PETG or maybe other Creality Plastic roll weight: **190g**
+- Fuj:tech Cardboard filament roll weight: **220g**
+- Sunlu JAYO, old mass producted filament roll weight: **133g**
