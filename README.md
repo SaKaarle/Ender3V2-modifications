@@ -1,5 +1,13 @@
 # Ender3V2-modifications
 Mods of my Ender 3 V2 with .blend and .STL files
+Also information.
+  
+## List:
+- [What have I done](#what-else-what-have-i-done)
+- [Required modding](#required-modding)
+- [Filament spool / roll weights](#filament-spool--roll-weights)
+  
+
 ## Backing up .blend files
 This repo is made for me to publicly upload my mods and methods I used for creating my own modifications.
 ## Why and what?
